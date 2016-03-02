@@ -1,9 +1,9 @@
-[![Stories in Ready](https://badge.waffle.io/mxabierto/validadora.png?label=ready&title=Ready)](https://waffle.io/mxabierto/validadora)
 # Validadora
 
 La validadora es un proyecto que permite el análisis de recursos de datos y la identificaciones de posibles problemas de estructura, formato o estandarización.
 Todo esto a través de un API que permiten crear validaciones asíncronas y consultar su estado ya sea por medio del identificador de la validación o definiendo URL a donde será notificado cuando termine la validaciones.
 
+[![Stories in Ready](https://badge.waffle.io/mxabierto/validadora.png?label=ready&title=Ready)](https://waffle.io/mxabierto/validadora)
 
 ## Instalación
 
@@ -52,15 +52,17 @@ docker run -v /tmp:/datasets -p 5000:5000 mxabierto/validadora
 
 ## Demo
 
-Puedes visualizar un demo del proyecto aqui.
+Puedes visualizar un demo del proyecto [aqui](http://10.15.9.12:5000/).
 
 ## ¿Preguntas o problemas?
 
-Mantenemos la conversación del proyecto en la página de issues (problemas). Si tienes otra pregunta, nos puedes contactar a escuadron@datos.gob.mx
+Encuentra mas información en [el wiki](https://github.com/mxabierto/validadora/wiki)
+
+Mantenemos la conversación del proyecto en [la página de issues (problemas)](https://github.com/mxabierto/validadora/issues). Si tienes otra pregunta, nos puedes contactar a escuadron@datos.gob.mx
 
 ## Contribuye
 
-Queremos que este proyecto sea el resultado de un esfuerzo de la comunidad. Ayúdanos con código, ideas y bugs.
+Queremos que este proyecto sea el resultado de un esfuerzo de [la comunidad](https://github.com/mxabierto/validadora/graphs/contributors). [Ayúdanos con código, ideas y bugs](https://github.com/mxabierto/validadora/issues).
 
 ## Licencia
 
