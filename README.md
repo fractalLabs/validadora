@@ -56,12 +56,12 @@ Puedes visualizar un demo del proyecto aqui.
 
 ## ¿Preguntas o problemas?
 
-Mantenemos la conversación del proyecto en nuestra página de problemas issues. Si usted tiene cualquier otra pregunta, nos puede contactar por correo a equipo@civica.digital.
+Mantenemos la conversación del proyecto en la página de issues (problemas). Si tienes otra pregunta, nos puedes contactar a escuadron@datos.gob.mx
 
 ## Contribuye
 
-Queremos que este proyecto sea el resultado de un esfuerzo de la comunidad. Usted puede colaborar con código, ideas y bugs.
+Queremos que este proyecto sea el resultado de un esfuerzo de la comunidad. Ayúdanos con código, ideas y bugs.
 
 ## Licencia
 
-Available under the license: GNU GPL License, Version 2.0. Read the document [LICENSE](./LICENSE) for more information.
+[Libre Uso MX (compatible con Creative Commons)](http://datos.gob.mx/libreusomx/)
